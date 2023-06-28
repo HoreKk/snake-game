@@ -53,8 +53,8 @@ body {
 }
 
 .play-board .food {
-  // mettre une couleur pour la nourriture
+  background: red
 }
 .play-board .snake {
-  // mettre ue couleur pour le serpent
+  background: green
 }
